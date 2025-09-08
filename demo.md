@@ -7,3 +7,5 @@ Third line
 Fourth line!? Creating a conflict for pull request
 
 Pull request test
+
+Diff Merge Branch test
