@@ -4,6 +4,6 @@ Second line!
 
 Third line
 
-Fourth line!? Another change to create a conflict!
+Fourth line!? Creating a conflict for pull request
 
 Pull request test
