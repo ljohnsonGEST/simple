@@ -1,6 +1,6 @@
 First line
 
-Second line!
+Second line! Added a line for the rebase test on the rebase-test branch
 
 Third line
 
